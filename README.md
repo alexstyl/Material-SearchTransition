@@ -4,6 +4,8 @@ This is a sample project showcasing how a transition to Search can be achieved s
 
 The main difference to the implementation found in the stock Dialer app is that you have two separate Activities (MainActivity and SearchActivity) in the demo, as opposed to having a huge activity that has the logic for both.
 
+The searchbar is an actual [`Toolbar`](https://developer.android.com/reference/android/widget/Toolbar.html) view, which allows you to still use all the things you get for free (such as the Navigation button, inflate a custom Menu etc) using the API you already know. No custom views trying to replicate behavior that is given by the system.
+
 The demo is using the [`Transition` API](https://developer.android.com/reference/android/transition/package-summary.html)  with a combination of custom Activity transitions.
 
 
