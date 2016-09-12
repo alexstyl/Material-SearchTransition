@@ -1,0 +1,7 @@
+<resources>
+  <dimen name="activity_horizontal_margin">16dp</dimen>
+  <dimen name="activity_vertical_margin">16dp</dimen>
+
+  <dimen name="toolbar_height">64dp</dimen>
+  <dimen name="toolbarMargin">8dp</dimen>
+</resources>

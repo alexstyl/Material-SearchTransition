@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto/android">
+
+  <item
+    android:id="@+id/main_action_share"
+    android:icon="@drawable/ic_action_share"
+    android:title="Share"
+    app:showAsAction="always" />
+
+  <item
+    android:title="@string/settings"
+    app:showAsAction="never" />
+
+</menu>
