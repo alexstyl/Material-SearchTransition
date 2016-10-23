@@ -15,7 +15,7 @@ The demo is using the [`Transition` API](https://developer.android.com/reference
 
 ### Jump straight to code
 
-To get started, have a look at the  [MainActivity](https://github.com/alexstyl/Material-SearchTransition/blob/master/app/src/main/java/com/alexstyl/searchtransition/mainscreen/MainActivity.java) class. Enjoy! 
+To get started, have a look at the  [MainActivity](https://github.com/alexstyl/Material-SearchTransition/blob/master/app/src/main/java/com/alexstyl/searchtransition/mainscreen/MainActivity.java#L30) class. Enjoy! 
 
 
 
