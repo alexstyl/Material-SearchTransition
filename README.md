@@ -17,6 +17,9 @@ The demo is using the [`Transition` API](https://developer.android.com/reference
 
 To get started, have a look at the  [MainActivity](https://github.com/alexstyl/Material-SearchTransition/blob/master/app/src/main/java/com/alexstyl/searchtransition/mainscreen/MainActivity.java#L30) class. Enjoy! 
 
+### Just code is not enough?
+
+The full explanation and exploration of transitions can be found at the respective Medium article: [Exposing the Searchbar](https://medium.com/@alexstyl/https-medium-com-alexstyl-animating-the-toolbar-7a8f1aab39dd#.p12w85hem)
 
 
 ### License
