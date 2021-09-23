@@ -19,7 +19,7 @@ To get started, have a look at the  [MainActivity](https://github.com/alexstyl/M
 
 ### Just code is not enough?
 
-The full explanation and exploration of transitions can be found at the respective Medium article: [Exposing the Searchbar](https://medium.com/@alexstyl/https-medium-com-alexstyl-animating-the-toolbar-7a8f1aab39dd#.p12w85hem)
+The full explanation and exploration of transitions can be found at [Exposing the Searchbar](https://alexstyl.com/exposing-the-searchbar/)
 
 
 ### License
